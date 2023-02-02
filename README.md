@@ -43,10 +43,6 @@ camera works with the help of different image processing techniques.
   ```
 
 
-# Author - 
-Xavier Dias
-
-
 # Contact -
 [GITHUB](https://github.com/Xavi007)<br/>
 [Instagram](https://www.instagram.com/xavierdias07/)<br/>
