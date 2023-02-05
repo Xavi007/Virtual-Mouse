@@ -8,8 +8,6 @@ actual mouse or a computer keyboard. Virtual mouse which uses web
 camera works with the help of different image processing techniques.
 
 
- _GitHub- https://github.com/Xavi007
-
 
 # How to setup and run
 
