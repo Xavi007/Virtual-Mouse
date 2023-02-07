@@ -310,7 +310,7 @@ class Controller:
             Controller.pinch_control(hand_result,Controller.changesystembrightness, Controller.changesystemvolume)
         
 '''
----------------------------------------  Main Class  ---------------------------------------
+----------------------------------------  Main Class  ----------------------------------------
     Entry point of Gesture Controller
 '''
 
