@@ -53,6 +53,6 @@ If you liked the project, please give it a star ⭐
 # Feedback 
 If you have any feedback, please reach out to me!!
 
-# Contributing -
+# Contributing 
 Contributions are always welcome!
 
