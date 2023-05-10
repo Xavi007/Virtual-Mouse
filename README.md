@@ -13,7 +13,7 @@ camera works with the help of different image processing techniques...
 
   ### Pre-requisites
   
-  Python: (3.6 - 3.8.5)<br>
+  Python: (3.6 -- 3.8.5)<br>
   Anaconda Distribution: To download click [here](https://www.anaconda.com/products/individual).
   
   Download and Extract the Project Folder Name Virtual-Mouse.<br>
