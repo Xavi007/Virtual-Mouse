@@ -9,7 +9,7 @@ camera works with the help of different image processing techniques..
 
 
 
-# How to setup and run
+# How to setup and run..
 
   ### Pre-requisites
   
